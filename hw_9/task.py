@@ -13,9 +13,6 @@ numbers = list(range(10, 250000001, step))
 random.shuffle(numbers)
 numbers.sort()
 
-# print(numbers)
-
-
 """"
 2. Сгенерируйте с помощью list comprehensions и функции randomint 
 (встроенный модуль random) 10 случайных чисел.
@@ -65,8 +62,8 @@ def measure_time(func, *args):
     execution_time = end_time - start_time
     return result, execution_time
 
-target = 42  # Здесь можно указать любое из сгенерированных случайных чисел
-result_linear, time_linear = measure_time(linear_search, random_numbers, target)
+target = 500000  # Здесь можно указать любое из сгенерированных случайных чисел
+result_linear, time_linear = measure_time(linear_search, numbers, target)
 if result_linear != -1:
     print(f"Число {target} найдено на позиции {result_linear} с помощью линейного поиска.")
 else:
@@ -74,7 +71,7 @@ else:
 
 # Поиск с помощью бинарного поиска (предварительно отсортировав массив)
 random_numbers.sort()
-result_binary, time_binary = measure_time(binary_search, random_numbers, target)
+result_binary, time_binary = measure_time(binary_search, numbers, target)
 if result_binary != -1:
     print(f"Число {target} найдено на позиции {result_binary} с помощью бинарного поиска.")
 else:
