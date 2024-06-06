@@ -1,0 +1,346 @@
+[
+    {
+        "date": "2024-06-07",
+        "num_code": "036",
+        "char_code": "AUD",
+        "unit": 1,
+        "currency": "Австралийский доллар",
+        "rate": 59.1144
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "944",
+        "char_code": "AZN",
+        "unit": 1,
+        "currency": "Азербайджанский манат",
+        "rate": 52.212
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "051",
+        "char_code": "AMD",
+        "unit": 100,
+        "currency": "Армянских драмов",
+        "rate": 22.897
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "933",
+        "char_code": "BYN",
+        "unit": 1,
+        "currency": "Белорусский рубль",
+        "rate": 27.9121
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "975",
+        "char_code": "BGN",
+        "unit": 1,
+        "currency": "Болгарский лев",
+        "rate": 49.3398
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "986",
+        "char_code": "BRL",
+        "unit": 1,
+        "currency": "Бразильский реал",
+        "rate": 16.7986
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "348",
+        "char_code": "HUF",
+        "unit": 100,
+        "currency": "Венгерских форинтов",
+        "rate": 24.6365
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "410",
+        "char_code": "KRW",
+        "unit": 1000,
+        "currency": "Вон Республики Корея",
+        "rate": 64.6471
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "704",
+        "char_code": "VND",
+        "unit": 10000,
+        "currency": "Вьетнамских донгов",
+        "rate": 36.6158
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "344",
+        "char_code": "HKD",
+        "unit": 1,
+        "currency": "Гонконгский доллар",
+        "rate": 11.3854
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "981",
+        "char_code": "GEL",
+        "unit": 1,
+        "currency": "Грузинский лари",
+        "rate": 31.7183
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "208",
+        "char_code": "DKK",
+        "unit": 1,
+        "currency": "Датская крона",
+        "rate": 12.929
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "784",
+        "char_code": "AED",
+        "unit": 1,
+        "currency": "Дирхам ОАЭ",
+        "rate": 24.1689
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "840",
+        "char_code": "USD",
+        "unit": 1,
+        "currency": "Доллар США",
+        "rate": 88.7604
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "978",
+        "char_code": "EUR",
+        "unit": 1,
+        "currency": "Евро",
+        "rate": 96.5698
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "818",
+        "char_code": "EGP",
+        "unit": 10,
+        "currency": "Египетских фунтов",
+        "rate": 18.6788
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "356",
+        "char_code": "INR",
+        "unit": 10,
+        "currency": "Индийских рупий",
+        "rate": 10.6345
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "360",
+        "char_code": "IDR",
+        "unit": 10000,
+        "currency": "Индонезийских рупий",
+        "rate": 54.5144
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "398",
+        "char_code": "KZT",
+        "unit": 100,
+        "currency": "Казахстанских тенге",
+        "rate": 19.7843
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "124",
+        "char_code": "CAD",
+        "unit": 1,
+        "currency": "Канадский доллар",
+        "rate": 64.8075
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "634",
+        "char_code": "QAR",
+        "unit": 1,
+        "currency": "Катарский риал",
+        "rate": 24.3847
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "417",
+        "char_code": "KGS",
+        "unit": 10,
+        "currency": "Киргизских сомов",
+        "rate": 10.1671
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "156",
+        "char_code": "CNY",
+        "unit": 1,
+        "currency": "Китайский юань",
+        "rate": 12.2251
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "498",
+        "char_code": "MDL",
+        "unit": 10,
+        "currency": "Молдавских леев",
+        "rate": 50.1604
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "554",
+        "char_code": "NZD",
+        "unit": 1,
+        "currency": "Новозеландский доллар",
+        "rate": 55.1158
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "934",
+        "char_code": "TMT",
+        "unit": 1,
+        "currency": "Новый туркменский манат",
+        "rate": 25.3601
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "578",
+        "char_code": "NOK",
+        "unit": 10,
+        "currency": "Норвежских крон",
+        "rate": 84.0964
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "985",
+        "char_code": "PLN",
+        "unit": 1,
+        "currency": "Польский злотый",
+        "rate": 22.4539
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "946",
+        "char_code": "RON",
+        "unit": 1,
+        "currency": "Румынский лей",
+        "rate": 19.4054
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "960",
+        "char_code": "XDR",
+        "unit": 1,
+        "currency": "СДР (специальные права заимствования)",
+        "rate": 117.643
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "941",
+        "char_code": "RSD",
+        "unit": 100,
+        "currency": "Сербских динаров",
+        "rate": 82.5466
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "702",
+        "char_code": "SGD",
+        "unit": 1,
+        "currency": "Сингапурский доллар",
+        "rate": 65.9389
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "972",
+        "char_code": "TJS",
+        "unit": 10,
+        "currency": "Таджикских сомони",
+        "rate": 82.6424
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "764",
+        "char_code": "THB",
+        "unit": 10,
+        "currency": "Таиландских батов",
+        "rate": 24.3252
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "949",
+        "char_code": "TRY",
+        "unit": 10,
+        "currency": "Турецких лир",
+        "rate": 27.3244
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "860",
+        "char_code": "UZS",
+        "unit": 10000,
+        "currency": "Узбекских сумов",
+        "rate": 70.0222
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "980",
+        "char_code": "UAH",
+        "unit": 10,
+        "currency": "Украинских гривен",
+        "rate": 22.1208
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "826",
+        "char_code": "GBP",
+        "unit": 1,
+        "currency": "Фунт стерлингов Соединенного королевства",
+        "rate": 113.2583
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "203",
+        "char_code": "CZK",
+        "unit": 10,
+        "currency": "Чешских крон",
+        "rate": 39.1532
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "752",
+        "char_code": "SEK",
+        "unit": 10,
+        "currency": "Шведских крон",
+        "rate": 85.1911
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "756",
+        "char_code": "CHF",
+        "unit": 1,
+        "currency": "Швейцарский франк",
+        "rate": 99.4737
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "710",
+        "char_code": "ZAR",
+        "unit": 10,
+        "currency": "Южноафриканских рэндов",
+        "rate": 46.9453
+    },
+    {
+        "date": "2024-06-07",
+        "num_code": "392",
+        "char_code": "JPY",
+        "unit": 100,
+        "currency": "Японских иен",
+        "rate": 56.9342
+    }
+]
