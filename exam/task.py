@@ -79,8 +79,7 @@ def is_monotonic(nums):
     
     return increasing or decreasing
 
-# Примеры использования:
 print(is_monotonic([1, 2, 2, 3]))   
-print(is_monotonic([6, 5, 4, 4]))   # Output: True (монотонно убывающий)
-print(is_monotonic([1, 3, 2]))      # Output: False (не монотонный)
-print(is_monotonic([1, 1, 1, 1]))   # Output: True (монотонно возрастающий)
+print(is_monotonic([6, 5, 4, 4]))   
+print(is_monotonic([1, 3, 2]))   
+print(is_monotonic([1, 1, 1, 1]))
